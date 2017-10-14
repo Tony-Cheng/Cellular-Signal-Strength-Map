@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TheRadioWavesDetector</string>
+    <string name="hello_world">Main</string>
+    <string name="setting_page">Settings</string>
+</resources>
